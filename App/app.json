@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "SMF_MNG",
+    "slug": "SMF_MNG",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icons/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.SmartFactory.Management",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.SmartFactory.Management",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icons/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/icons/icon.png"
+    }
+  }
+}
