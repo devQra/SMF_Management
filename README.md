@@ -13,19 +13,6 @@
 
 > 2022.03 ~ 2022.08
 
-### 📄&nbsp;Document
-
-> [전체 발표자료.pdf](public/doc/presentationMain.pdf) <br>
-> [시스템규격서.pdf](public/doc/systemStandard.pdf) <br>
-
-> [서버 발표자료.pdf](public/doc/presentationServer.pdf) <br>
-> [서버 최종보고서.pdf](public/doc/reportServer.pdf) <br>
-> [웹 페이지 디자인.pdf](public/doc/frontDesign.pdf) <br>
-
-> [특허 분석.pdf](public/doc/특허%20분석.pdf) <br>
-> [선도 기업 분석.pdf](public/doc/선도%20기업%20분석.pdf) <br>
-> [정부 지원 및 규제.pdf](public/doc/정부%20지원%20및%20규제.pdf) <br>
-
 ### 🚀&nbsp;Intro & Function
 
 >  기존 생산 분야의 구형 시스템과 아날로그 설비들을 IoT, 빅데이터와의 융합을 통해 스마트팩토리로 거듭날 수 있는 기반을 다지는 것을 목표로 두고 있습니다.
@@ -50,6 +37,19 @@
 <img src="https://img.shields.io/badge/AWS_IoT_Core-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=node.js&logoColor=white" alt=""/>
 </p>
+
+### 📄&nbsp;Document
+
+> [전체 발표자료.pdf](public/doc/presentationMain.pdf) <br>
+> [시스템규격서.pdf](public/doc/systemStandard.pdf) <br>
+
+> [서버 발표자료.pdf](public/doc/presentationServer.pdf) <br>
+> [서버 최종보고서.pdf](public/doc/reportServer.pdf) <br>
+> [웹 페이지 디자인.pdf](public/doc/frontDesign.pdf) <br>
+
+> [특허 분석.pdf](public/doc/특허%20분석.pdf) <br>
+> [선도 기업 분석.pdf](public/doc/선도%20기업%20분석.pdf) <br>
+> [정부 지원 및 규제.pdf](public/doc/정부%20지원%20및%20규제.pdf) <br>
 
 ### 📂&nbsp;ERD
 
