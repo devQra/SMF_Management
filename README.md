@@ -48,7 +48,7 @@
 > [웹 페이지 디자인.pdf](public/doc/frontDesign.pdf) <br>
 
 > [특허 분석.pdf](public/doc/특허%20분석.pdf) <br>
-> [선도 기업 분석.pdf](public/doc/선도%20기업%20분석.pdf) <br>
+> [선도 기업 분석.pdf](public/doc/선도기업분석.pdf) <br>
 > [정부 지원 및 규제.pdf](public/doc/정부%20지원%20및%20규제.pdf) <br>
 
 ### 📂&nbsp;ERD
