@@ -34,8 +34,7 @@
 > 
 > - 프로젝트 매니저(PM) 담당
 > - Backend API 설계 및 구현
-> - AWS EC2(Backend), CloudFront(Front/CDN) 배포 (CI/CD)
-> - App 디자인 및 개발 
+> - AWS EC2(Backend), CloudFront(Front/CDN) 배포
 > - MQTT 연동 (Arduino - RaspberryPi - AWS IoT Core - AWS EC2)
 
 ### 📚&nbsp;Tech Stack
