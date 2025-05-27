@@ -40,14 +40,17 @@
 
 ### 📚&nbsp;Tech Stack
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt=""/>
-<br>
+</p>
+<p>
 <img src="https://img.shields.io/badge/AWS_EC2(Ubuntu)-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/AWS_IoT_Core-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=node.js&logoColor=white" alt=""/>
+</p>
 
 ### 📂&nbsp;ERD
 
