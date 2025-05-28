@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt=""/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/AWS_EC2(Ubuntu)-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt=""/>
@@ -48,7 +50,7 @@
 > [웹 페이지 디자인.pdf](public/doc/frontDesign.pdf) <br>
 
 > [특허 분석.pdf](public/doc/특허%20분석.pdf) <br>
-> [선도 기업 분석.pdf](public/doc/선도기업분석.pdf) <br>
+> [선도 기업 분석.pdf](public/doc/선도%20기업%20분석.pdf) <br>
 > [정부 지원 및 규제.pdf](public/doc/정부%20지원%20및%20규제.pdf) <br>
 
 ### 📂&nbsp;ERD
