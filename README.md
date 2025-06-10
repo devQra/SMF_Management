@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5f4b8b&text=SMF&height=200&animation=fadeIn&fontColor=ddd8ea)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=SMF&height=200&animation=fadeIn&fontColor=ffffff)
 #### 2022년 1학기 CCIT 융합전공 프로젝트
 <div align="center">
     <img src="public/MainLogo.webp" alt=""
